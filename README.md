@@ -1,4 +1,4 @@
-# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+![Screenshot 2023-11-21 154011](https://github.com/23014232/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231872/81f85f4b-58e5-4cce-a3ee-f6f7ed6f5b04)# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -48,17 +48,14 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+![Screenshot 2023-11-21 153650](https://github.com/23014232/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231872/7d579a4b-1dd4-4b3c-aa0c-b57d9e6fe41c)
+![Screenshot 2023-11-21 153748](https://github.com/23014232/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231872/97b12987-42ea-41a6-b532-2980393c454a)
+![Screenshot 2023-11-21 153821](https://github.com/23014232/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231872/49a6e0cd-59ce-4e59-a883-b1a1c2c807ce)
+![Screenshot 2023-11-21 153936](https://github.com/23014232/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231872/49dccc24-1932-40fa-9510-814785bbb274)
+![Uploading Screenshot 2023-11-21 154011.png…]()
 
 ## Output:
+
 
 ### Name: 
 ### Register Number:
